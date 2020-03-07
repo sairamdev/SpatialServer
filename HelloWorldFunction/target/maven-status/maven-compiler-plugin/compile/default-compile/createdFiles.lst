@@ -1,0 +1,10 @@
+spatialserver\ServerlessInput.class
+spatialserver\ServerlessInput$RequestContext.class
+helloworld\App.class
+spatialserver\Constants.class
+spatialserver\ServerlessOutput.class
+spatialserver\SpatialEngine.class
+spatialserver\MyAmigooSpatialEngineHelpers.class
+spatialserver\IncidentLocation.class
+spatialserver\SpatialQuery.class
+helloworld\GatewayResponse.class
